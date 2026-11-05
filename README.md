@@ -76,7 +76,7 @@ The repository contains:
 ### Project Structure
 
 ```text
-phishing/
+phishing-website-detection-bits/
 │
 ├── app.py
 ├── requirements.txt
