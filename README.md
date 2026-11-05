@@ -60,7 +60,7 @@ The processed dataset contains 5,849 records and 30 input features.
 ## c. GitHub Repository Link
 
 **GitHub Repository:**
-[PASTE YOUR GITHUB REPOSITORY LINK HERE]
+(https://github.com/pranu-kdm/phishing-website-detection-bits.git)
 
 The repository contains:
 
@@ -185,7 +185,7 @@ An interactive web application was developed using Streamlit to demonstrate the 
 ## Live Streamlit Application
 
 **Streamlit App Link:**
-[PASTE YOUR DEPLOYED STREAMLIT APP LINK HERE]
+https://phishing-website-detection-bits.streamlit.app/
 
 The application is deployed using Streamlit Community Cloud.
 
@@ -194,22 +194,16 @@ The application is deployed using Streamlit Community Cloud.
 ### Step 1: Clone the GitHub Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/pranu-kdm/phishing-website-detection-bits.git
 ```
 
-### Step 2: Navigate to the Project Folder
-
-```bash
-cd phishing
-```
-
-### Step 3: Install Dependencies
+### Step 2: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 4: Run the Streamlit Application
+### Step 3: Run the Streamlit Application
 
 ```bash
 streamlit run app.py
